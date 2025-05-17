@@ -1,0 +1,31 @@
+body{
+    color: aliceblue;
+    background-color: #212121;
+}
+
+.accordian_title{
+    display: flex;
+    align-items: center;
+
+}
+
+.accordian_item{
+    border: 1px solid aliceblue;
+    padding: 10px;
+}
+
+.accordian_title h3{
+    flex: 1;
+}
+
+.accordian_content{
+    display: none;
+}
+
+.accordian_title.active + .accordian_content{
+    display: block;
+}
+
+.accordian_title.active i{
+   transform: rotate(180deg);
+}
