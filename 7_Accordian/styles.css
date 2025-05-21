@@ -29,3 +29,14 @@ body{
 .accordian_title.active i{
    transform: rotate(180deg);
 }
+
+.accordian_content p {
+    font-size: 22px;
+}
+
+.container h1{
+    font-weight: bolder;
+    font-size: 28px;
+    text-align: center;
+    margin-bottom: 40px;
+}

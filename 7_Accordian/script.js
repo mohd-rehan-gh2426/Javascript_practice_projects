@@ -1,27 +1,27 @@
 const data = [
   {
     id: "1",
-    question: "What are accordion components?",
+    question: "What is Islam?",
     answer:
-      "Accordion components are user interface elements used for organizing and presenting content in a collapsible manner. They typically consist of a header, content, and an expand/collapse action.",
+      "Islam is a monotheistic Abrahamic religion revealed to the Prophet Muhammad ﷺ through the Qur'an. It emphasizes submission to the will of Allah (God) and living a righteous life according to His guidance.",
   },
   {
     id: "2",
-    question: "What are they used for?",
+    question: "What are the Five Pillars of Islam?",
     answer:
-      "They are commonly employed in various contexts, including FAQs, product descriptions, navigation menus, settings panels, and data tables, to save screen space and provide a structured and user-friendly interface for presenting information or options.",
+      "The Five Pillars of Islam are Shahadah (faith), Salah (prayer), Zakah (charity), Sawm (fasting in Ramadan), and Hajj (pilgrimage to Makkah). These pillars are the foundation of a Muslim’s faith and practice.",
   },
   {
     id: "3",
-    question: "Accordion as a musical instrument",
+    question: "What is the Qur'an?",
     answer:
-      "The accordion is a musical instrument with a keyboard and bellows. It produces sound by air passing over reeds when the player expands or compresses the bellows, used in various music genres.",
+      "The Qur'an is the holy book of Islam, revealed by Allah to the Prophet Muhammad ﷺ through the Angel Jibreel (Gabriel). It is the ultimate source of guidance for Muslims in all aspects of life.",
   },
   {
     id: "4",
-    question: "Can I create an accordion component with a different framework?",
+    question: "Who is Prophet Muhammad ﷺ?",
     answer:
-      "Yes of course, it is very possible to create an accordion component with another framework.",
+      "Prophet Muhammad ﷺ is the last and final messenger of Allah. He was sent to guide humanity and conveyed the message of Islam. His life is the perfect example (Uswatun Hasanah) for Muslims to follow.",
   },
 ];
 

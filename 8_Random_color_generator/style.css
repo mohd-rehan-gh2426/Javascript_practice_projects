@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.random_color_generator_container {
+  display: flex;
+  gap: 8px;
+}
+
+.hex_color_generator {
+ 
+  flex: 1;
+  border: 1px solid black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+
+
+.rgb_color_generator {
+  flex: 1;
+  border: 1px solid black;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 25px;
+}
+
+.green, .red, .blue{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+
+button{
+    padding: 10px 20px;
+}
